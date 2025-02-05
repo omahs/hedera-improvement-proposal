@@ -91,6 +91,6 @@ community support.
 ## Disclaimer(s):
 These proposals and discussions have no effect regarding private (permissioned)
 implementations of the Hashgraph consensus algorithm; additionally, this
-repository and it’s contents are run by the Hedera Hashgraph community, which
+repository and its contents are run by the Hedera Hashgraph community, which
 means they do not necessarily reflect the views and opinions of
 Hedera Hashgraph LLC.
